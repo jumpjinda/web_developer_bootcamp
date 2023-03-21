@@ -7,4 +7,4 @@
 // Write your code in app.js.  Please do not change any of the elements in index.html
 
 const doneTodos = document.querySelectorAll('.done');
-const checkbox = document.querySelector('input[type = "checkbox"]');
+const checkbox = document.querySelector('input[type="checkbox"]');
